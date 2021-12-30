@@ -37,7 +37,7 @@
  	 	 	},
  	 	 	"defaultLines": {
  	 	 	 	"trans": [
- 	 	 	 	 	"Do you want to buy Units, or use your Units?"
+ 	 	 	 	 	"Voulz-vous acheter des Unités, ou utiliser vos unités ?"
  	 	 	 	],
  	 	 	 	"eng": [
  	 	 	 	 	"Do you want to buy Units, or use your Units?"
@@ -59,7 +59,7 @@
  	 	 	},
  	 	 	"defaultLines": {
  	 	 	 	"trans": [
- 	 	 	 	 	"Hi! Donate to get cosmetic perks and to help support Free-to-Win games like this one!"
+ 	 	 	 	 	"Salut ! Faites un don pour obtenir des avantages cosmétiques et pour aider à soutenir les jeux gratuits comme celui-ci !"
  	 	 	 	],
  	 	 	 	"eng": [
  	 	 	 	 	"Hi! Donate to get cosmetic perks and to help support Free-to-Win games like this one!"
@@ -77,7 +77,7 @@
  	 	 	},
  	 	 	"defaultLines": {
  	 	 	 	"trans": [
- 	 	 	 	 	"I'll print whatever you want if you have the cache!"
+ 	 	 	 	 	"J'imprimerai ce que vous voulez si vous avez le plan !"
  	 	 	 	],
  	 	 	 	"eng": [
  	 	 	 	 	"I'll print whatever you want if you have the cache!"
@@ -91,7 +91,7 @@
  	 	 	},
  	 	 	"defaultLines": {
  	 	 	 	"trans": [
- 	 	 	 	 	"You will find the best gear here, trust me."
+ 	 	 	 	 	"Vous trouverez du meilleur équipement ici, faites-moi confiance."
  	 	 	 	],
  	 	 	 	"eng": [
  	 	 	 	 	"You will find the best gear here, trust me."
@@ -100,7 +100,7 @@
  	 	},
  	 	"terminal": {
  	 	 	"name": {
- 	 	 	 	"trans": "Terminale",
+ 	 	 	 	"trans": "Terminal",
  	 	 	 	"eng": "Terminal"
  	 	 	},
  	 	 	"tut": {
@@ -117,7 +117,7 @@
  	 	 	},
  	 	 	"defaultLines": {
  	 	 	 	"trans": [
- 	 	 	 	 	"I'll help you to progress to the next area!"
+ 	 	 	 	 	"Je vous aiderai à accéder à la nouvelle zone !"
  	 	 	 	],
  	 	 	 	"eng": [
  	 	 	 	 	"I'll help you to progress to the next area!"
@@ -131,7 +131,7 @@
  	 	 	},
  	 	 	"defaultLines": {
  	 	 	 	"trans": [
- 	 	 	 	 	"Hey kid... Come check out my goods."
+ 	 	 	 	 	"Hé gamin... Viens voir mes marchandises."
  	 	 	 	],
  	 	 	 	"eng": [
  	 	 	 	 	"Hey kid... Come check out my goods."
@@ -149,7 +149,7 @@
  	 	 	},
  	 	 	"defaultLines": {
  	 	 	 	"trans": [
- 	 	 	 	 	"Welcome. What can I store for you?"
+ 	 	 	 	 	"Bienvenue. Que puis-je stocker pour vous ?"
  	 	 	 	],
  	 	 	 	"eng": [
  	 	 	 	 	"Welcome. What can I store for you?"
@@ -171,7 +171,7 @@
  	 	 	},
  	 	 	"defaultLines": {
  	 	 	 	"trans": [
- 	 	 	 	 	"Insert a Calibration Core into the machine, and I shall help you calibrate any of your equipment."
+ 	 	 	 	 	"Insérez un noyau de calibrage dans la machine, et je vous aiderai à calibrer n'importe lequel de vos équipements."
  	 	 	 	],
  	 	 	 	"eng": [
  	 	 	 	 	"Insert a Calibration Core into the machine, and I shall help you calibrate any of your equipment."
@@ -196,7 +196,7 @@
  	 	 	 	 	"Hey kid, I'm Lee, You know, you don't have to carry everything you own in your pockets."
  	 	 	 	],
  	 	 	 	"eng": [
- 	 	 	 	 	"Hey kid, I'm Lee, You know, you don't have to carry everything you own in your pockets."
+ 	 	 	 	 	"Hé gamin, je m'appelle Lee, tu sais, tu n'es pas obligé de porter tout ce que tu possèdes dans tes poches."
  	 	 	 	]
  	 	 	}
  	 	},
@@ -290,7 +290,7 @@
  	 	 	 	 	"eng": "Go to Hyper Train Central Station"
  	 	 	 	},
  	 	 	 	"tut": {
- 	 	 	 	 	"trans": "Débutez votre aventure pour des récompenses épiques ici",
+ 	 	 	 	 	"trans": "Débutez votre aventure pour trouver des récompenses épiques ici",
  	 	 	 	 	"eng": "Start your adventure for epic loot here"
  	 	 	 	},
  	 	 	 	"description": {
@@ -593,7 +593,7 @@
  	 	 	 	"eng": "Nano Medic Bot"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "faites une injection pour soigner toute (*voir conditions) blessure!",
+ 	 	 	 	"trans": "Faites une injection pour soigner toute (*voir conditions) blessure!",
  	 	 	 	"eng": "Inject it to cure any(*conditions apply) injury!"
  	 	 	}
  	 	},
@@ -753,7 +753,7 @@
  	 	 	 	"eng": "Synaptic Acceleration Transmitter"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "diffuse tes exploits à tous les utilisateurs connectés cybernétiquement, overclock leur processeur synaptique afin de les doter de capacités mentales surhumaine pour une courte période.\r\n        \r\n        Quand utilisé, donne un Buff Global à tous les joueurs en ligne, permettant de compléter les taches AFK +5% plus vite pour 10 minutes (stackable)",
+ 	 	 	 	"trans": "Diffuse tes exploits à tous les utilisateurs connectés cybernétiquement, overclock leur processeur synaptique afin de les doter de capacités mentales surhumaine pour une courte période.\r\n        \r\n        Quand utilisé, donne un Buff Global à tous les joueurs en ligne, permettant de compléter les taches AFK +5% plus vite pour 10 minutes (stackable)",
  	 	 	 	"eng": "Broadcasts exploits to all cybernetically connected users, overclocking their synaptic processors thus allowing super-human mental capacity for short period of time.\r\n        \r\n        When used, gives Global Buff to all players online, allowing them to complete AFK tasks in +5% speed for 10 minutes (stackable)"
  	 	 	}
  	 	},
@@ -763,7 +763,7 @@
  	 	 	 	"eng": "Rare Synaptic Acceleration Transmitter"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "diffuse tes exploits à tous les utilisateurs connectés cybernétiquement, overclock leur processeur synaptique afin de les doter de capacités mentales surhumaine pour une courte période.\r\n        \r\n        Quand utilisé, donne un Buff Global à tous les joueurs en ligne, permettant de compléter les taches AFK +40% plus vite pour 20 minutes (stackable)",
+ 	 	 	 	"trans": "Diffuse tes exploits à tous les utilisateurs connectés cybernétiquement, overclock leur processeur synaptique afin de les doter de capacités mentales surhumaine pour une courte période.\r\n        \r\n        Quand utilisé, donne un Buff Global à tous les joueurs en ligne, permettant de compléter les taches AFK +40% plus vite pour 20 minutes (stackable)",
  	 	 	 	"eng": "Broadcasts exploits to all cybernetically connected users, overclocking their synaptic processors thus allowing super-human mental capacity for short period of time.\r\n        \r\n        When used, gives Global Buff to all players online, allowing them to complete AFK tasks in +40% speed for 20 minutes (stackable)"
  	 	 	}
  	 	},
@@ -773,7 +773,7 @@
  	 	 	 	"eng": "Frontal Cortex Optimization Transmitter"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "diffuse tes exploits à tous les utilisateurs connectés cybernétiquement, booste l'intégration de leur cortex frontal avec l'installation d'implants, ce qui augmente les capacités mémorielle de l'utilisateur.\r\n\r\n        Quand utilisé, donne un Buff Global à tous les joueurs en ligne, augmente de 180% le gain d'XP pour 20 minutes\r\n        ",
+ 	 	 	 	"trans": "Diffuse tes exploits à tous les utilisateurs connectés cybernétiquement, booste l'intégration de leur cortex frontal avec l'installation d'implants, ce qui augmente les capacités mémorielle de l'utilisateur.\r\n\r\n        Quand utilisé, donne un Buff Global à tous les joueurs en ligne, augmente de 180% le gain d'XP pour 20 minutes\r\n        ",
  	 	 	 	"eng": "Broadcasts exploits to all cybernetically connected users, enhancing their Frontal Cortex integration with cyberwares installed, thus increasing memory capability of the user.\r\n\r\n        When used, gives Global Buff to all players online, increase EXP gained to 180% for 20 minutes\r\n        "
  	 	 	}
  	 	},
@@ -783,7 +783,7 @@
  	 	 	 	"eng": "Transaction Exploit Transmitter"
  	 	 	},
  	 	 	"description": {
- 	 	 	 	"trans": "diffuse tes exploits à tous les utilisateurs connectés cybernétiquement, accroît temporairement leur algorithme de transaction, permettant à l'utilisateur de recevoir une prime  ${Config.CURRENCY_NAME}.\r\n\r\n        Quand utilisé, donne un Buff Global à tous les joueurs en ligne, augmente de 40% le gain de BitCoin pour 20 minutes (stackable)\r\n        ",
+ 	 	 	 	"trans": "Diffuse tes exploits à tous les utilisateurs connectés cybernétiquement, accroît temporairement leur algorithme de transaction, permettant à l'utilisateur de recevoir une prime  ${Config.CURRENCY_NAME}.\r\n\r\n        Quand utilisé, donne un Buff Global à tous les joueurs en ligne, augmente de 40% le gain de BitCoin pour 20 minutes (stackable)\r\n        ",
  	 	 	 	"eng": "Broadcasts exploits to all cybernetically connected users, argument their transaction algorithm temporary, allowing user to receive bonus  ${Config.CURRENCY_NAME}.\r\n\r\n        When used, gives Global Buff to all players online, increase BitCoin gained by 40% for 20 minutes (stackable)\r\n        "
  	 	 	}
  	 	},
@@ -1537,7 +1537,7 @@
  	 	 	},
  	 	 	"clearDungeonCoOp": {
  	 	 	 	"name": {
- 	 	 	 	 	"trans": "amis de donjon",
+ 	 	 	 	 	"trans": "Amis du donjon",
  	 	 	 	 	"eng": "dungeon friends"
  	 	 	 	}
  	 	 	},
@@ -1574,7 +1574,7 @@
  	 	},
  	 	"newbie": {
  	 	 	"name": {
- 	 	 	 	"trans": "Newbie avec bénéfice",
+ 	 	 	 	"trans": "Nouveau venu avec avantages",
  	 	 	 	"eng": "Newbie with benefit"
  	 	 	},
  	 	 	"description": {
@@ -1667,7 +1667,7 @@
  	 	 	 	"eng": "Skipping ${skipCount}"
  	 	 	},
  	 	 	"skipAvailable": {
- 	 	 	 	"trans": "Skip disponible",
+ 	 	 	 	"trans": "Passer Disponible",
  	 	 	 	"eng": "Skip Available"
  	 	 	}
  	 	},
@@ -3741,7 +3741,7 @@
  	 	 	"vars": [
  	 	 	 	"minLevel"
  	 	 	],
- 	 	 	"trans": "Charge anti-matière (LV ${minLevel})",
+ 	 	 	"trans": "Charge d'anti-matière (LV ${minLevel})",
  	 	 	"eng": "Anti Matter Charge (lv${minLevel})"
  	 	},
  	 	"christmasGift": {
@@ -3814,7 +3814,7 @@
  	 	},
  	 	"review": {
  	 	 	"title1": {
- 	 	 	 	"trans": "Je suis Dexter, le développeur de ce jeu, et j'espère entendre votre expérience de jeu jusqu'à maintenant.",
+ 	 	 	 	"trans": "Je suis Dexter, le développeur de ce jeu, et j'espère connaître votre expérience jusqu'à présent.",
  	 	 	 	"eng": "I'm Dexter, the developer of this game, and I hope to know your experience so far."
  	 	 	},
  	 	 	"title2": {
@@ -3829,11 +3829,11 @@
  	 	 	},
  	 	 	"goodReview": {
  	 	 	 	"title1": {
- 	 	 	 	 	"trans": "Wow merci beaucoup! Je suis honoré, veuillez le rendre officiel en les laissant sur notre page de magasin :)",
+ 	 	 	 	 	"trans": "Wow, merci beaucoup ! Je suis flatté, veuillez le rendre officiel en le laissant sur notre page de magasin :)",
  	 	 	 	 	"eng": "Wow, thanks so much! I'm honored, please make it official by leaving them on our store page :)"
  	 	 	 	},
  	 	 	 	"title2": {
- 	 	 	 	 	"trans": "Vos bonnes critiques vont beaucoup m'aider et amener plus de joueurs dans notre communauté !",
+ 	 	 	 	 	"trans": "Vos avis positifs m'aideront beaucoup à amener plus de joueurs dans notre communauté !",
  	 	 	 	 	"eng": "Your good review is going to help me much and bring more players into our community!"
  	 	 	 	}
  	 	 	},
@@ -3987,7 +3987,7 @@
  	 	 	 	"eng": "Broadcast Received"
  	 	 	},
  	 	 	"dontShowAgain": {
- 	 	 	 	"trans": "Don \\ 't montrer cette diffusion à nouveau",
+ 	 	 	 	"trans": "Ne\\pas montrer cette diffusion à nouveau",
  	 	 	 	"eng": "Don\\'t show this broadcast again"
  	 	 	}
  	 	},
@@ -4016,7 +4016,7 @@
  	 	 	},
  	 	 	"confirmButton": {
  	 	 	 	"title": {
- 	 	 	 	 	"trans": "je comprends",
+ 	 	 	 	 	"trans": "Je comprends",
  	 	 	 	 	"eng": "I understand"
  	 	 	 	},
  	 	 	 	"description": {
@@ -4212,7 +4212,7 @@
  	 	 	"eng": "Click 'TAKE ALL' to get all the loots"
  	 	},
  	 	"dungeonQuest": {
- 	 	 	"trans": "Cliquez sur \"Accepter la quête\" pour accepter la quête, vous pouvez compléter ou abandonner la quête à tout moment",
+ 	 	 	"trans": "Cliquez sur 'Accepter la quête' pour recevoir la quête, vous pouvez compléter ou abandonner la quête à tout moment",
  	 	 	"eng": "Click 'ACCEPT QUEST' to accept the quest, you may complete or abandon the quest at any time"
  	 	},
  	 	"localCombatTip": {
@@ -4233,11 +4233,11 @@
  	 	},
  	 	"paypal": {
  	 	 	"paypalBonusTitle": {
- 	 	 	 	"trans": "Tous les achats PayPal garantissent 10% d'unités supplémentaires! le paiement par Paypal n'est disponible que sur la version web du jeux",
+ 	 	 	 	"trans": "Tous les achats PayPal garantissent 10% d'unités supplémentaires! le paiement par Paypal n'est disponible que sur la version web du jeu",
  	 	 	 	"eng": "All PayPal purchases grants 10% additional Units! You may use paypal only on website version, simply login with your browser."
  	 	 	},
  	 	 	"paypalBonus": {
- 	 	 	 	"trans": "Vous recevrez 10% d'unités supplémentaires avec l'achat par paypal.",
+ 	 	 	 	"trans": "Vous recevrez 10% d'unités supplémentaires via l'achat par paypal.",
  	 	 	 	"eng": "You will receive additional 10% more Units with paypal purchase"
  	 	 	}
  	 	},
@@ -4257,7 +4257,7 @@
  	"itemLore": {
  	 	"contribution": {
  	 	 	"title": {
- 	 	 	 	"trans": "Contenu contribué par les joueurs",
+ 	 	 	 	"trans": "Contenu apporté par les joueurs",
  	 	 	 	"eng": "Player contributed content"
  	 	 	},
  	 	 	"description": {
@@ -4303,7 +4303,7 @@
  	 	 	 	"eng": "Discard"
  	 	 	},
  	 	 	"warning": {
- 	 	 	 	"trans": "L'élément/s ci-dessus sera jeté et ne sera pas placé dans votre inventaire. Cette action est irréversible.",
+ 	 	 	 	"trans": "L'/Les objet(s) ci-dessus seront jetés et ne seront pas placés dans votre inventaire. Cette action est irréversible.",
  	 	 	 	"eng": "The item/items above will be discarded and not be placed into your inventory. This action is irreversible."
  	 	 	}
  	 	},
@@ -4632,7 +4632,7 @@
  	 	 	 	 	"eng": "Customize gang image"
  	 	 	 	},
  	 	 	 	"11": {
- 	 	 	 	 	"trans": "Du plus à venir dans les mises à jour futures",
+ 	 	 	 	 	"trans": "Contenu additionnel à venir dans les mises à jour futures",
  	 	 	 	 	"eng": "More coming in future update"
  	 	 	 	},
  	 	 	 	"12": {
@@ -4652,7 +4652,7 @@
  	 	 	"eng": "special weapon"
  	 	},
  	 	"tertiaryWeapon": {
- 	 	 	"trans": "arme destructive",
+ 	 	 	"trans": "arme destructrice",
  	 	 	"eng": "destructive weapon"
  	 	},
  	 	"helmet": {
@@ -4693,7 +4693,7 @@
  	 	 	 	"eng": "I am Dexter, the developer of CyberCode Online."
  	 	 	},
  	 	 	"content3": {
- 	 	 	 	"trans": "Si vous avez un peu de sous de coté, ce serait très utile si vous pouviez faire un don pour soutenir le développement continu du jeu.",
+ 	 	 	 	"trans": "Si vous avez un peu d'argent de coté, ce serait très utile si vous pouviez faire un don pour soutenir le développement du jeu.",
  	 	 	 	"eng": "If you have some spare change it would be very helpful if you could donate to help with continued support and development of the game."
  	 	 	},
  	 	 	"content4": {
@@ -4722,7 +4722,7 @@
  	 	 	 	 	"eng": "Deal damage"
  	 	 	 	},
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "Infliger des dommages à n'importe quel ennemi",
+ 	 	 	 	 	"trans": "Infligez des dommages à n'importe quel ennemi",
  	 	 	 	 	"eng": "Deal damage to any enemy"
  	 	 	 	}
  	 	 	},
@@ -4732,7 +4732,7 @@
  	 	 	 	 	"eng": "Acquire Bitcoins"
  	 	 	 	},
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "Obtenez des bitcoins de quelque manière que ce soit",
+ 	 	 	 	 	"trans": "Obtenez des bitcoins de n'importe quelle manière",
  	 	 	 	 	"eng": "Acquire Bitcoins in any way"
  	 	 	 	}
  	 	 	},
@@ -4782,7 +4782,7 @@
  	 	 	 	 	"eng": "Clear challenge dungeon"
  	 	 	 	},
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "Terminez un donjon Challenge (peut être en co-op)",
+ 	 	 	 	 	"trans": "Terminez un donjon Challenge (peut être fait en co-op)",
  	 	 	 	 	"eng": "Clear a challenge dungeon (can be co-op)"
  	 	 	 	}
  	 	 	},
@@ -4792,7 +4792,7 @@
  	 	 	 	 	"eng": "Clear dungeon"
  	 	 	 	},
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "Terminez un donjon (peut être en co-op)",
+ 	 	 	 	 	"trans": "Terminez un donjon (peut être faie en co-op)",
  	 	 	 	 	"eng": "Clear any dungeon (can be co-op)"
  	 	 	 	}
  	 	 	},
@@ -4802,13 +4802,13 @@
  	 	 	 	 	"eng": "Clear dungeon with friends"
  	 	 	 	},
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "Terminez n'importe quel donjon avec 1 joueurs ou plus",
+ 	 	 	 	 	"trans": "Terminez n'importe quel donjon avec 1 joueur ou plus",
  	 	 	 	 	"eng": "Clear any dungeon with 1 or more players"
  	 	 	 	}
  	 	 	},
  	 	 	"globalChat": {
  	 	 	 	"name": {
- 	 	 	 	 	"trans": "Utiliser un tchat global",
+ 	 	 	 	 	"trans": "Utiliser le tchat global",
  	 	 	 	 	"eng": "Use global chat"
  	 	 	 	},
  	 	 	 	"description": {
@@ -4840,7 +4840,7 @@
  	},
  	"shop": {
  	 	"noEnoughSpace": {
- 	 	 	"trans": "Vous n'avez pas d'espace dans votre inventaire pour acheter cet article",
+ 	 	 	"trans": "Vous n'avez pas d'emplacement disponible dans votre inventaire pour acheter cet article",
  	 	 	"eng": "You have no space in your inventory to purchase this item"
  	 	},
  	 	"noEnoughMoney": {
@@ -4875,7 +4875,7 @@
  	},
  	"itemTrait": {
  	 	"stun": {
- 	 	 	"trans": "de superbe",
+ 	 	 	"trans": "d'étourdissement",
  	 	 	"eng": "of Stunning"
  	 	},
  	 	"bargain": {
@@ -4899,7 +4899,7 @@
  	 	 	"eng": "of Shielding"
  	 	},
  	 	"sneaky": {
- 	 	 	"trans": "de se faufiler",
+ 	 	 	"trans": "de discrétion",
  	 	 	"eng": "of Sneaking"
  	 	},
  	 	"evade": {
@@ -4911,11 +4911,11 @@
  	 	 	"eng": "with pockets"
  	 	},
  	 	"criticalChanceArmor": {
- 	 	 	"trans": "de Crice Chance",
+ 	 	 	"trans": "de chance critiques",
  	 	 	"eng": "of Crit Chance"
  	 	},
  	 	"criticalChanceWeapon": {
- 	 	 	"trans": "de Crice Chance",
+ 	 	 	"trans": "de chance critiques",
  	 	 	"eng": "of Crit Chance"
  	 	},
  	 	"criticalDamageArmor": {
@@ -4943,7 +4943,7 @@
  	 	 	"eng": "of Shield"
  	 	},
  	 	"upgradeSneaky": {
- 	 	 	"trans": "de se faufiler",
+ 	 	 	"trans": "de discrétion",
  	 	 	"eng": "of Sneaking"
  	 	},
  	 	"upgradeHealthRegen": {
@@ -4955,7 +4955,7 @@
  	 	 	"eng": "of Stun"
  	 	},
  	 	"upgradeCriticalChance": {
- 	 	 	"trans": "de Crice Chance",
+ 	 	 	"trans": "de chance critiques",
  	 	 	"eng": "of Crit Chance"
  	 	},
  	 	"upgradeCriticalDamage": {
@@ -4963,7 +4963,7 @@
  	 	 	"eng": "of Crit Damage"
  	 	},
  	 	"upgradeEvade": {
- 	 	 	"trans": "s'évader",
+ 	 	 	"trans": "d'évasion",
  	 	 	"eng": "of Evade"
  	 	},
  	 	"upgradePocketed": {
